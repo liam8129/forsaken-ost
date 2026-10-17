@@ -13,4 +13,5 @@ To help maintain the playlist you can do any of the following:
 
 Please follow these rules if you are going to contribute:
 * Do not add unofficial uploads to the playlist unless there is no official upload
+* Do not add UST songs
 * Format songs by chronological order, and by variant if possible (if a skin has had multiple themes, they should be next to eachother in chronological order)
