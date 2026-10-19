@@ -1,6 +1,13 @@
-## Forsaken OST
+<div align="center">
+  
+# Forsaken OST
 
-Manager for [this playlist that somehow has 58+ million views](https://www.youtube.com/playlist?list=PLAl67ptS1aswzAivpHhYc7b66_w2JrtDd)
+![Version 2 Thumbnail](thumbnails/Version2/Version2.png)
+
+**Manager for [this playlist that somehow has 58+ million views](https://www.youtube.com/playlist?list=PLAl67ptS1aswzAivpHhYc7b66_w2JrtDd)**
+</div>
+
+---
 
 Utilizes [ypm](https://github.com/liam8129/youtube-playlist-manager) systems for formatting locally and pushing changes remotely to Youtube. Contributors can not push changes.
 
