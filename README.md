@@ -2,7 +2,7 @@
   
 # Forsaken OST
 
-![Version 2 Thumbnail](thumbnails/Version2/Version2.png)
+![Version 2 Thumbnail](thumbnails/Version2/V2-2.png)
 
 **Manager for [this playlist that somehow has 58+ million views](https://www.youtube.com/playlist?list=PLAl67ptS1aswzAivpHhYc7b66_w2JrtDd)**
 </div>
